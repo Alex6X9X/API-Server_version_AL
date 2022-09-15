@@ -1,0 +1,8 @@
+/*Author: Alexandre Carle*/
+/*Date: September 15 2022*/
+
+html {
+    background-image: url(./meme.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
